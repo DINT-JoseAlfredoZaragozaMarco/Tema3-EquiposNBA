@@ -5,7 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Tema3_EquiposNBA"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Icon="./assets/icon.png"
+        Title="Equipos NBA" Height="450" Width="800">
     <StackPanel>
         <Border Margin="10" BorderBrush="Black" BorderThickness="3" CornerRadius="5">
             <StackPanel>
